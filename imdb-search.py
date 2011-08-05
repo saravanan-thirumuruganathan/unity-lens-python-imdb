@@ -1,7 +1,7 @@
 #! /usr/bin/python
 #For more details see
 #	1. https://wiki.ubuntu.com/Unity/Lenses
-#	2. Sara blog post.
+#	2. Tutorial at http://saravananthirumuruganathan.wordpress.com/2011/08/05/tutorial-on-writing-ubuntu-lensesplaces-in-python/ .
 
 import sys
 import imdb

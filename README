@@ -1,0 +1,6 @@
+This repository contains files that allow you to create a Ubuntu Unity Lens where you can search movies through IMDB. There are two sections. 
+	In the "Movie Names" section, only the movie names are retrieved.
+	In the "Genre" section, the movie names and genre are retrieved. Each movie is added to a group corresponding to the group.
+
+This is primarily intended as a tutorial for writing Ubuntu Unity Lens using Python. For other details look at the blog post at http://saravananthirumuruganathan.wordpress.com/2011/08/05/tutorial-on-writing-ubuntu-lensesplaces-in-python/ .
+
