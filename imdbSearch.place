@@ -1,0 +1,17 @@
+#
+# Core info on how to contact the place over DBus
+#
+[Place]
+DBusName=net.launchpad.IMDBSearchLens
+DBusObjectPath=/net/launchpad/imdbsearchlens
+
+[Entry:IMDBSearch]
+DBusObjectPath=/net/launchpad/imdbsearchlens/mainentry
+Icon=/usr/share/app-install/icons/totem.png
+Name=IMDB Search
+Description=Search Movies using IMDB
+SearchHint=Seach Movies using IMDB
+Shortcut=i
+
+[Desktop Entry]
+X-Ubuntu-Gettext-Domain=imdbSearch-place
